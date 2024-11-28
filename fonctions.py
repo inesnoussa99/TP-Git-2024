@@ -9,6 +9,7 @@ def soustraction(x, y):
 
 def noms_binome():
     print("AOUADI")
+    print("ines") 
 
 
 a = 2
